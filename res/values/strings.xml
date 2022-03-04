@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thayalan</string>
+    <string-array name="units">
+        <item>Thayam</item>
+        <item>Thayal</item>
+        <item>Thayat</item>
+    </string-array>
+</resources>
